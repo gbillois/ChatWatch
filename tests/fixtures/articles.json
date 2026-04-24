@@ -1,0 +1,20 @@
+[
+  {
+    "title": "City Council Approves Emergency Housing Plan",
+    "url": "https://news.example.com/local/housing-plan",
+    "canonicalUrl": "https://news.example.com/local/housing-plan",
+    "embedding": [0.22, 0.11, 0.48, 0.09]
+  },
+  {
+    "title": "Emergency Housing Plan Clears City Council Vote",
+    "url": "https://wire.example.org/politics/housing",
+    "canonicalUrl": null,
+    "embedding": [0.21, 0.1, 0.5, 0.08]
+  },
+  {
+    "title": "Central Bank Signals No Immediate Rate Cuts",
+    "url": "https://finance.example.net/economy/rates",
+    "canonicalUrl": "https://finance.example.net/economy/rates",
+    "embedding": [0.8, 0.12, 0.02, 0.01]
+  }
+]
